@@ -16,7 +16,7 @@ function GoalItem(props) {
 
 const styles = StyleSheet.create({
     listStyle: {
-        color: 'white',
+        color: '#e6cfcf',
         fontSize: 20,
         padding: 8,
     },
